@@ -1,0 +1,6 @@
+let array = [15,30,40,5,8]; 
+array.sort ((a,b)=> a-b);
+console.log(array);
+
+
+ 
